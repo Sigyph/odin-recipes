@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(76, 66, 63);
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color:bisque;
+    margin:10px auto;
+}
+
+.menuopt{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 230px;
+    height: auto;
+
+    background-color: gray;
+    margin: 10px auto;
+    padding: 25px 20px;
+    text-align: center;
+    
+}
+
+ul>li, ol>li{
+    padding-bottom: 10px;
+}
